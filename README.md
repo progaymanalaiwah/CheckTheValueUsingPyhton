@@ -8,7 +8,7 @@ Author		: Ayman Alaiwah
 Fcaebook        : www.fb.com/ProgAymanAlaiwah
 Description     : The Class Used Of Check Of Value/s Of Language Python3 Or Python2 
 </pre>
----------------------------------------------
+
 ## Contains these functions 
 - isNumber
 - isNegativeNumber
@@ -17,7 +17,7 @@ Description     : The Class Used Of Check Of Value/s Of Language Python3 Or Pyth
 - isString
 - isEmail
 - isDate
-----------------------------------------------
+
 ## Module Useding  At The Class 
 - <strong>re</strong> Default At Python
 - <strong> dateutil</strong> Not Dufault At Python
